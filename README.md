@@ -29,7 +29,7 @@ This page provides a high-level summary of inventory operations:
   - Low: 29.38%
 
 📸 _Screenshot Preview_  
-![Inventory Overview & Key Metrics](./Inventory%202nd%20page%20.jpg)
+![Inventory Overview & Key Metrics](https://github.com/Clacksanalysis/Inventory-Management-Power-BI-Dashboard/blob/6556c1a83f3334299722290e7978af0864af739b/Inventory%20Analysis.pdf)
 
 ---
 
@@ -50,7 +50,7 @@ This page analyzes supplier behavior and cost-related metrics:
   - Slowest: Office Supplies (62)
 
 📸 _Screenshot Preview_  
-![Supplier & Cost Performance](./Inventory%203rd%20page%20.jpg)
+![Supplier & Cost Performance](https://github.com/Clacksanalysis/Inventory-Management-Power-BI-Dashboard/blob/6556c1a83f3334299722290e7978af0864af739b/Inventory%20Analysis.pdf)
 
 ---
 
@@ -74,8 +74,7 @@ This page analyzes supplier behavior and cost-related metrics:
 
 ## 🔗 Publish to Web
 
-[👉 View Interactive Report Here](#)  
-_(Link will be provided after submission validation)_
+[👉 View Interactive Report Here](https://zoomcharts.com/en/microsoft-power-bi-custom-visuals/challenges/submission/2cfb41b5a03e2f76ccea787c8e7ad88b?challenge=fp20-analytics-april-2025)  
 
 ---
 
@@ -86,27 +85,6 @@ _(Link will be provided after submission validation)_
 - **Hashtags**:  
   `#FP20Analytics` `#FP20InventoryManagementAnalysis` `#builtwithzoomcharts`  
 - **Tag**: @Federico Pastor @ZoomCharts
-
----
-
-## 🙋‍♂️ About Me
-
-**Saka Bidemi**  
-Data Analyst | Power BI Developer  
-Passionate about turning data into actionable insights using interactive visualizations and effective storytelling.
-
-📧 _Let's connect on [LinkedIn](https://www.linkedin.com/in/your-profile)_  
-🛠 _Portfolio coming soon..._
-
----
-
-## 📁 Files
-
-- `Inventory_Management_Challenge.pbix`
-- `Inventory_Report.pdf`
-- `README.md`
-- `Screenshots/Inventory 2nd page.jpg`
-- `Screenshots/Inventory 3rd page.jpg`
 
 ---
 
